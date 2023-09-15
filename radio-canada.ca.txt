@@ -1,0 +1,5 @@
+Hichambouhou1010@gmail.com:jh54228.JH54228	https://login.cbc.radio-canada.ca/bef1b538-1950-4283-9b27-b096cbc18070/B2C_1A_ExternalClient_FrontEnd_SignUp_CBC/api/SelfAsserted/confirmed
+robertmeunier85@hotmail.com:chOwchOw1234	https://services.radio-canada.ca/auth/oauth/v2/authorize/login
+personalfn@hotmail.com:xxxone	https://services.radio-canada.ca/auth/oauth/v2/authorize/login
+robertmeunier85@hotmail.com:chOwchOw1234	https://services.radio-canada.ca/
+bonaventureaman@gmail.com:uFFd55Uc27UAsSd	https://services.radio-canada.ca/auth/oauth/v2/authorize/login
