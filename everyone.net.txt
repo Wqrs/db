@@ -1,0 +1,1 @@
+amr.deb:i'manAlphaMan1_1E	http://englishpage.mail.everyone.net/email/scripts/collectRegistrationInfo.pl

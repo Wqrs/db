@@ -1,0 +1,11 @@
+UNKNOWN:towhishhhq108	https://auth.band.us/continue_phone_login
+UNKNOWN:qosem114!	https://auth.band.us/reset_password_by_phone
+UNKNOWN:dkfxhwjddnr1	https://auth.band.us/continue_phone_login
+hayulbami0806@gmail.com:hayul12!@	https://auth.band.us/email_sign_up
+UNKNOWN:jo021440	https://auth.band.us/continue_email_login
+UNKNOWN:wnstn0908	https://auth.band.us/reset_password_by_phone
+chachejoseangel1@gmail.com:josea7921	https://auth.band.us/email_sign_up
+UNKNOWN:punto96	https://auth.band.us/phone_sign_up
+UNKNOWN:bb504412	https://auth.band.us/continue_phone_login
+UNKNOWN:ckddud7878	https://auth.band.us/continue_email_login
+00pukan00@gmail.com:taumee0912	https://band.us/my/profile

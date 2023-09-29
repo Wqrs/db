@@ -1,0 +1,5 @@
+matthew6237890@netvigator.com:my623789	https://uhub.netvigator.com/portal/zh/index.html
+matthew623789:my623789	http://moov.netvigator.com/music/share/loginDialogBox.jsp
+matthew623789:my623789	http://email.netvigator.com/netvigator/dashboard/chi/mail/mail.jsp
+UNKNOWN:genki	https://managedwifi.biznetvigator.com/MWFServlet
+UNKNOWN:No password require	https://managedwifi.biznetvigator.com/MWFServlet

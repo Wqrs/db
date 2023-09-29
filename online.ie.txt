@@ -1,0 +1,7 @@
+1711140023:28011999	http://online.iesb.br/aonline/logon.asp
+PETRUSOSIOH1:AerLingus1AK	https://grantsonline.ie/auth/esr.elogin
+1711140023:28011999	http://aonline.iesb.br/aonline/logon.asp
+2224020039:06351701163	https://online.iesb.br/aonline/logon.asp
+RMSILVAC@SAPO.PT:ptteqgddeport	https://iefponline.iefp.pt/IEFP/validacaoToken.do
+1711140023:28011999	https://online.iesb.br/aonline/logon.asp
+2224020039:140491	http://online.iesb.br/aonline/logon.asp

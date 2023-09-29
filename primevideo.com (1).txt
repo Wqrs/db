@@ -1,0 +1,11 @@
+UNKNOWN:99884	https://www.primevideo.com/region/na/profiles/ref=atv_pr_nv_mng
+UNKNOWN:13695	https://www.primevideo.com/region/na/profiles/ref=atv_profile_clear_profile_pin_rdrct
+4799 4703 9675 1259:685	https://www.primevideo.com/signup/ref=av_auth_return_redir
+UNKNOWN:19301	https://www.primevideo.com/region/eu/profiles/ref=atv_pr_nv_mng
+irvinr660@gmail.com:plantas12	https://www.primevideo.com/region/na/gp/video/signup/twitch
+Adii:25301	https://www.primevideo.com/profiles/ref=atv_profile_clear_profile_pin_rdrct
+UNKNOWN:00000	https://www.primevideo.com/profiles/ref=atv_profile_locked_rdrt
+office:00100	https://www.primevideo.com/region/eu/profiles/ref=atv_pr_nv_mng
+UNKNOWN:40404	https://www.primevideo.com/profiles/ref=atv_profile_redirect_pid_locked
+UNKNOWN:19555	https://www.primevideo.com/region/na/profiles/ref=atv_pr_nv_mng
+UNKNOWN:25040	https://www.primevideo.com/region/eu/profiles/ref=atv_pr_nv_mng
